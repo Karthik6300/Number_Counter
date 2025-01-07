@@ -118,3 +118,19 @@ body{
 #reset:active{
     background-color: orange;
 }
+
+/* media queries
+
+@media screen and (min-width:0px) and (max-width:320px) {
+    #main_div {
+        gap: rem;
+        /* margin-top: 0rem; */
+        /* justify-items: center; */
+        /* padding: 30px; */
+    /* }
+    #dec_but{
+        width: 30%;
+    }
+   
+    
+} */ 
