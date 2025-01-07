@@ -3,13 +3,10 @@
   padding: 0px;
   box-sizing: 0px;
 }
-body{
-
-    background-color: rgba(92, 88, 88, 0.768);
+body {
+  background-color: rgba(92, 88, 88, 0.768);
 }
-
 /* navbar */
-
 #navbar {
   font-size: xx-large;
   text-align: center;
@@ -65,12 +62,12 @@ body{
   background-color: rgba(0, 0, 0, 0.667);
   color: aliceblue;
 }
-#dec_but:hover{
-    background-color: aqua;
-    color: black;
+#dec_but:hover {
+  background-color: aqua;
+  color: black;
 }
-#dec_but:active{
-    background-color: orange;
+#dec_but:active {
+  background-color: orange;
 }
 
 /* inc_but */
@@ -84,12 +81,12 @@ body{
   background-color: rgba(0, 0, 0, 0.667);
   color: aliceblue;
 }
-#inc_but:hover{
-    background-color: aqua;
-    color: black;
+#inc_but:hover {
+  background-color: aqua;
+  color: black;
 }
-#inc_but:active{
-    background-color: orange;
+#inc_but:active {
+  background-color: orange;
 }
 
 /* h1 */
@@ -111,12 +108,12 @@ body{
   background-color: rgba(0, 0, 0, 0.667);
   color: aliceblue;
 }
-#reset:hover{
-    background-color: rgba(255, 0, 0, 0.727);
-    color: black;
+#reset:hover {
+  background-color: rgba(255, 0, 0, 0.727);
+  color: black;
 }
-#reset:active{
-    background-color: orange;
+#reset:active {
+  background-color: orange;
 }
 
 /* media queries
@@ -125,12 +122,12 @@ body{
     #main_div {
         gap: rem;
         /* margin-top: 0rem; */
-        /* justify-items: center; */
-        /* padding: 30px; */
-    /* }
+/* justify-items: center; */
+/* padding: 30px; */
+/* }
     #dec_but{
         width: 30%;
     }
    
     
-} */ 
+} */
