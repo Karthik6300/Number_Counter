@@ -1,0 +1,120 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: 0px;
+}
+body{
+
+    background-color: rgba(92, 88, 88, 0.768);
+}
+
+/* navbar */
+
+#navbar {
+  font-size: xx-large;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+/* main div */
+#main_div {
+  border: 2px solid black;
+  width: fit-content;
+  height: 50vh;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: center;
+  align-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  border-radius: 2rem;
+  background-image: url(https://img.freepik.com/premium-photo/large-circle-colorful-buttons-with-word-smiley-it_910054-8447.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-items: center;
+  background-position: center;
+  /* background-color: goldenrod; */
+}
+
+/* count_box */
+
+#count_box {
+  border: 2px solid black;
+  width: 30%;
+  height: 10vh;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  justify-content: center;
+  border-radius: 2rem;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.655);
+  /* padding: 1rem; */
+  /* text-align: center; */
+}
+
+/* dec_but */
+
+#dec_but {
+  width: fit-content;
+  height: 10%;
+  padding: 0.5rem;
+  margin: auto;
+  border-radius: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.667);
+  color: aliceblue;
+}
+#dec_but:hover{
+    background-color: aqua;
+    color: black;
+}
+#dec_but:active{
+    background-color: orange;
+}
+
+/* inc_but */
+
+#inc_but {
+  width: fit-content;
+  height: 10%;
+  padding: 0.5rem;
+  margin: auto;
+  border-radius: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.667);
+  color: aliceblue;
+}
+#inc_but:hover{
+    background-color: aqua;
+    color: black;
+}
+#inc_but:active{
+    background-color: orange;
+}
+
+/* h1 */
+
+#h1 {
+  font-size: xx-large;
+  width: fit-content;
+  height: 30vh;
+  padding: 0.5rem;
+}
+/* reset */
+
+#reset {
+  width: fit-content;
+  height: 10%;
+  padding: 0.5rem;
+  margin: auto;
+  border-radius: 0.6rem;
+  background-color: rgba(0, 0, 0, 0.667);
+  color: aliceblue;
+}
+#reset:hover{
+    background-color: rgba(255, 0, 0, 0.727);
+    color: black;
+}
+#reset:active{
+    background-color: orange;
+}
